@@ -1,0 +1,10 @@
+streamlit
+streamlit-folium
+geopandas
+pandas
+numpy
+scikit-learn
+folium
+shapely
+pyproj
+fiona
